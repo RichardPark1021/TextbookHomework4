@@ -11,9 +11,12 @@ import java.util.Scanner;
 public class SumOfNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
+        //input for digit
         System.out.print("Please enter a positive integer: ");
         int num = sc.nextInt();
 
+        //Checks if the number is not negative and prints the sum of the digit
         if(num >= 0) {
             int sum = 0;
             while(num != 0) {
