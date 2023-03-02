@@ -2,7 +2,7 @@
  * @Class: StarPattern
  * @Author: Richard Park
  * @Course: ITEC 2140 - 04, Spring 2023
- * @Written: February 28, 2023
+ * @Written: March 14, 2023
  * Description: This program will create a pattern of stars
  */
 public class StarPattern {

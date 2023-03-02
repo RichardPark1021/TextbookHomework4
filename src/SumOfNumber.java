@@ -2,7 +2,7 @@
  * @Class: SumOfNumber
  * @Author: Richard Park
  * @Course: ITEC 2140 - 04, Spring 2023
- * @Written: February 28, 2023
+ * @Written: March 14, 2023
  * Description: The program will accept an integer from the user and display
  *              the sum of the digits of the provided integer
  */
