@@ -49,6 +49,7 @@ public class LexicographicOrder {
                 break;
             }
         }
+        //Combines both Strings
         System.out.println("New sentence created is: " + str1 + " " + str2);
     }
 }
